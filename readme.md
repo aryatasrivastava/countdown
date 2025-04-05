@@ -1,3 +1,3 @@
-## My Countdown
+# My Countdown
 
-# Countdown By Aryata
+## Countdown By Aryata
