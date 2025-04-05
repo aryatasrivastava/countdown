@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+}
+
+.main {
+    height: 100%;
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+
+.inner {
+    background: pink;
+    padding: 20px 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.timer-round{
+    text-align: center;
+}
+
+.timer-round span{
+    padding: 5px;
+    background-color: #550c52;
+    color: pink;
+    border: 2px solid purple;
+}
